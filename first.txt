@@ -1,2 +1,2 @@
 this is file we are creting
-this is my first artifcat in the devops training
+this is my first artifcat in the DevOps Plus training
